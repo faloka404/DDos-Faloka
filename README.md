@@ -27,3 +27,5 @@ Attack
 Together we are stronger!
 
 PRs are welcomed.
+
+BTC bc1qft6ae96rlkewk5hr0rkhtqq2zcl5wfjzq62k6h
